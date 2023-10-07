@@ -2,6 +2,5 @@
 
 Классы для предметной области интернет-магазина.
 
+![image](https://github.com/ShostovDK/ShopPython/assets/57068727/efcef514-8f33-44cd-b4cb-8a0a4e42ae44)
 
-
-![image](https://github.com/ShostovDK/ShopPython/assets/57068727/42e8155a-fa31-4b35-968c-248cc75427e0)
